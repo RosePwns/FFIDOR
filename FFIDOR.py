@@ -1,4 +1,3 @@
-# I created this python script to automate testing for IDOR vulnerabilities.
 import requests
 import string
 import random
